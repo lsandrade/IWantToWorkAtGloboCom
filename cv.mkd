@@ -1,19 +1,60 @@
 Vaga
 ====
+Plataforma de Personalização
+Plataforma de Comentários
+Área de Semântica
+Tsuru: Plataforma como serviço
+Banco de Dados
+Plataforma de Interatividades
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
 
 CV
 ==
+Luan Soares de Andrade  
+Idade: 22 anos  
+Endereço: Travessa 16, nº 9 Fundos casa 4, Boa Esperança, Seropédica, RJ.  
+Cep: 23890-000  
+Email: luansandrade92@hotmai.com
 
-[Preencha aqui o seu cv]
+Objetivo:
+Atuar como estagiário na área de desenvolvimento de maneira a colocar em prática meu conhecimento, aprender coisas novas e conhecer pessoas.
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Formação acadêmica
+------------------
+- Fev 2011 – Atual  
+Universidade Federal Rural do Rio de Janeiro, Seropédica, RJ, Brasil  
+Bacharelado, Sistemas de Informação  
+CR: 7,82  
+- Set 2012 – Jul 2013  
+Universidade de Coimbra, Portugal
+Estudante de Intercâmbio, Bacharelado, Engenharia Informática  
+
+
+Experiência:
+------------
+- Mar 2012 – Julho 2012  
+Bolsista de Iniciação Científica no projeto de Estudo dos Grafos da Web, CNPQ.
+
+- Dez 2013 - Atual
+Bolsista de Iniciação Científica no projeto de Workflows Científicos para gerenciamento de dados meteorológicos no estado do RJ, CNPq.
+
+Habilidades:
+-----------
+Conhecimento em desenvolvimento, concepção e documentação de sistemas.  
+Conhecimento em SQL e modelagem de bancos de dados.  
+Linguagems de programação: PHP, C/C++, Java, JavaScript.
+Experiência com desenvolvimento web (HTML5, CSS, JQuery).
+Frameworks: CakePHP, Wicket,  
+Softwares: Excel, PowerPoint, Word, R, Microsoft Project, NetBeans, Eclipse.
+
+Idiomas:
+--------
+Português (Língua Nativa);  
+Inglês (Intermediário);  
+
+Atividades e Sociedades:
+------------------------
+- Membro da equipe da UFRRJ: 
+    - Competição de Programação ACM 2011.  
+
+Saiba Mais: http://lsandrade.github.io/cv/
